@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# AllHelpCheck
 
-You can use the [editor on GitHub](https://github.com/inforeportable/allhelpcheck/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Data Verification Tool with everyone involved in helping
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+จุดประสงค์ของการพัฒนานี้ คือ สร้างเครื่องมือ ที่ใช้สำหรับตรวจสอบข้อมูล ทั้งรูปแบบโครงสร้าง ความสัมพันธ์ เงื่อนไขพิเศษ และ อื่นๆ โดย ที่ทุกคนสามารถแบ่งบันความรู้ ที่ใช้ในกระบวนการต่างๆ โดย
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/inforeportable/allhelpcheck/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- ฟรี ไม่มีค่าใช้จ่าย สำหรับการใช้งาน
+- สามารถแบ่งบันความรู้ ตัวอย่าง คำสั่ง เพื่อให้ ทุกๆคนสามารถนำไปใช้ต่อได้
